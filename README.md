@@ -1,10 +1,10 @@
-# ICSL
+# mCMIkNN
 
 ## Setup and Example
 
 To setup the code execute the following command.
 ```
-git clone git@github.com:JohannesHuegle/ICSL.git
+git clone git@github.com:hpi-epic/mCMIkNN.git
 cd src
 pip3 install -r requirements.txt
 ```
