@@ -11,9 +11,9 @@ setuptools.setup(
     description="A library for a conditional independence tests withn constraint-based causal structure learning for mixed discrete and continuous data.",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/JohannesHuegle/ICSL",
+    url="https://github.com/hpi-epic/mCMIkNN",
     project_urls={
-        "Bug Tracker": "https://github.com/JohannesHuegle/ICSL/issues",
+        "Bug Tracker": "https://github.com/hpi-epic/mCMIkNN/issues",
     },
     classifiers=[
         "Programming Language :: Python :: 3",
