@@ -1,4 +1,8 @@
 # mCMIkNN
+![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
+
+## A kNN-based Non-Parametric Conditional Independence Test for Mixed Data and Application in Causal Discovery
+This repository contains the code, the experiments, and the [Appendix](Appendix.pdf) of the paper "A kNN-based Non-Parametric Conditional Independence Test for Mixed Data and Application in Causal Discovery" which is accepted at the European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases [ECML PKDD 23](https://2023.ecmlpkdd.org/).
 
 ## Setup and Example
 
